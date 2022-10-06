@@ -1,0 +1,10 @@
+{"_id":{"$numberInt":"1"},"name":"CC_Propeller_LandingPage_Engaged","category":"partner","createDate":{"$date":{"$numberLong":"1619652592101"}},"updateDate":{"$date":{"$numberLong":"1619652592101"}}}
+{"_id":{"$numberInt":"2"},"name":"CC_Propeller_Overlay_Not_Engaged","category":"partner","createDate":{"$date":{"$numberLong":"1619652592182"}},"updateDate":{"$date":{"$numberLong":"1619652592182"}}}
+{"_id":{"$numberInt":"3"},"name":"CC_Propeller_Dashboard_ProgramOverlay_Engaged","category":"partner","createDate":{"$date":{"$numberLong":"1619652592265"}},"updateDate":{"$date":{"$numberLong":"1619652592265"}}}
+{"_id":{"$numberInt":"4"},"name":"CC_Propeller_Dashboard_Component_Engaged","category":"partner","createDate":{"$date":{"$numberLong":"1619652592349"}},"updateDate":{"$date":{"$numberLong":"1619652592349"}}}
+{"_id":{"$numberInt":"5"},"name":"FINDCARE_IAGNOSIS_SSO","category":"partner","createDate":{"$date":{"$numberLong":"1619652592440"}},"updateDate":{"$date":{"$numberLong":"1619652592440"}}}
+{"_id":{"$numberInt":"6"},"name":"FINDCARE_MDLIVE_SSO","category":"partner","createDate":{"$date":{"$numberLong":"1619652592526"}},"updateDate":{"$date":{"$numberLong":"1619652592526"}}}
+{"_id":{"$numberInt":"7"},"name":"FMCT_DB_IQVIA_Component_Engaged","category":"partner","createDate":{"$date":{"$numberLong":"1619652592613"}},"updateDate":{"$date":{"$numberLong":"1619652592613"}}}
+{"_id":{"$numberInt":"8"},"name":"FMCT_DB_IQVIA_Overlay_Dismissed","category":"partner","createDate":{"$date":{"$numberLong":"1619652592696"}},"updateDate":{"$date":{"$numberLong":"1619652592696"}}}
+{"_id":{"$numberInt":"9"},"name":"FMCT_DB_IQVIA_Overlay_Engaged","category":"partner","createDate":{"$date":{"$numberLong":"1619652592782"}},"updateDate":{"$date":{"$numberLong":"1619652592782"}}}
+{"_id":{"$numberInt":"10"},"name":"FMCT_DB_IQVIA_Overlay_Not_Engaged","category":"partner","createDate":{"$date":{"$numberLong":"1619652592872"}},"updateDate":{"$date":{"$numberLong":"1619652592872"}}}

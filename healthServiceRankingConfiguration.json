@@ -1,0 +1,12 @@
+{"_id":{"$oid":"5e9d0abe5d04f77493e1ef43"},"serviceType":"Medical","rankValue":{"$numberInt":"1"}}
+{"_id":{"$oid":"5e9d0abe5d04f77493e1ef44"},"serviceType":"UrgentCare","rankValue":{"$numberInt":"1"}}
+{"_id":{"$oid":"5e9d0abe5d04f77493e1ef45"},"serviceType":"PharmacyServices","rankValue":{"$numberInt":"1"}}
+{"_id":{"$oid":"5e9d0abe5d04f77493e1ef46"},"serviceType":"Labs","rankValue":{"$numberInt":"2"}}
+{"_id":{"$oid":"5e9d0abe5d04f77493e1ef47"},"serviceType":"PrimaryCare","rankValue":{"$numberInt":"2"}}
+{"_id":{"$oid":"5e9d0abe5d04f77493e1ef48"},"serviceType":"Optical","rankValue":{"$numberInt":"3"}}
+{"_id":{"$oid":"5e9d0abe5d04f77493e1ef49"},"serviceType":"Dental","rankValue":{"$numberInt":"3"}}
+{"_id":{"$oid":"5e9d0abe5d04f77493e1ef4a"},"serviceType":"Hearing","rankValue":{"$numberInt":"4"}}
+{"_id":{"$oid":"5e9d0abf5d04f77493e1ef4b"},"serviceType":"WeightLoss","rankValue":{"$numberInt":"4"}}
+{"_id":{"$oid":"5e9d0abf5d04f77493e1ef4c"},"serviceType":"Dermatology","rankValue":{"$numberInt":"5"}}
+{"_id":{"$oid":"5e9d0abf5d04f77493e1ef4d"},"serviceType":"MentalHealth","rankValue":{"$numberInt":"6"}}
+{"_id":{"$oid":"5e9d0abf5d04f77493e1ef4e"},"serviceType":"ChronicCare","rankValue":{"$numberInt":"6"}}

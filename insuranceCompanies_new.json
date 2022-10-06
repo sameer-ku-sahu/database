@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5f2b83e83738e4a6cf29b79d"},"companyName":"Ambetter (NC) of North Carolina","carrierCode":"AMBNC","isActive":true,"address":{"line1":"PO BOX 5010","city":"FARMINGTON","state":"MO","zip":"63640"},"list":"LabCorp","createDate":{"$date":{"$numberLong":"1596240000000"}},"updateDate":{"$date":{"$numberLong":"1596240000000"}}}

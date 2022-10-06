@@ -1,0 +1,2 @@
+{"_id":{"$oid":"625465f54f31b92338ece3a1"},"partnerName":"J&J Lung Cancer","partnerLink":"/findcare/service/lungcancer-quiz","partnerDesc":"Lung Cancer Screening Quiz","categoryName":"Cancer","updateDttm":"21-03-2022","createDttm":"21-03-2022","externalLink":"false","active":"true"}
+{"_id":{"$oid":"62f376d402924d230091f51b"},"partnerName":"AFA","partnerLink":"/findcare/service/brain-health-questionnaire","partnerDesc":"Memory questionnaire","categoryName":"Memory","updateDttm":"10-08-2022","createDttm":"10-08-2022","externalLink":"false","active":"true"}
